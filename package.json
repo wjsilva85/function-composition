@@ -1,0 +1,11 @@
+{
+  "name": "jscomposition",
+  "version": "1.0.0",
+  "description": "A quick example of composition",
+  "main": "app.js",
+  "scripts": {
+    "test": "npx nodemon app.js"
+  },
+  "author": "Wellington Silva",
+  "license": "ISC"
+}
